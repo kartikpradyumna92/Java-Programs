@@ -20,7 +20,7 @@ Command line arguments: <br>
 Command line arguments: <br>
 &emsp;- A single string containing a time in 12-hour clock format (i.e.:hh:mm:ssAM or hh:mm:ssPM),<br>&emsp; where 00<= hh <== 12; 00<= mm<= 60; 00<= ss<= 60.
 </h6>
-<h5>Max2.java</h5>
+<h5>4. Max2.java</h5>
 <h6>A program to determine the maximum of the two integers without using any conditional statements.<br>
 Command line arguments: <br>
 &emsp;- Provide two integers seperated with space.</h6>
