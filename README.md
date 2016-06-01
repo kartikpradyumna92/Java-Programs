@@ -7,7 +7,7 @@ Prerequisites: <br>
 Following is the list and brief descritpion of the programs. <br>
 <h5>1. Diagonal.java </h5>
 <h6>This program calculates the differences of the sum of the diagonals. <br>
-Command line arguments:
+Command line arguments:<br>
 &emsp;- The first line contains a single integer, N. The next N lines denote the matrix's rows, with each line containing space-separated integers describing the columns.
 </h6>
 
