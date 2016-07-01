@@ -24,6 +24,14 @@ Command line arguments: <br>
 <h6>A program to determine the maximum of the two integers without using any conditional statements.<br>
 Command line arguments: <br>
 &emsp;- Provide two integers seperated with space.</h6>
+<h5>4. Dictionary.java</h5>
+<h6>
+This program is implementing phone dictionary using HashMap.<br>
+Command Line Arguments: <br>
+&emsp;- Provide count of phone numbers in first place. <br>
+&emsp;- Give Name and Number for all seperated by Enter. <br>
+&emsp;- Then give the name of the user to be looked for to get their phone number. This return the number if user's details are stored or "not found".<br>
+</h6>
 </body>
 
 </html>
