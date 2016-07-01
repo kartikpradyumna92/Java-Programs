@@ -32,6 +32,13 @@ Command Line Arguments: <br>
 &emsp;- Give Name and Number for all seperated by Enter. <br>
 &emsp;- Then give the name of the user to be looked for to get their phone number. This return the number if user's details are stored or "not found".<br>
 </h6>
+<h5>4. ArrayReversal.java</h5>
+<h6>
+This program takes array of integers and store and print it in the reverse order. <br>
+Command Line Arguments: <br>
+&emsp;- Enter the count of elements to be stored in array. <br>
+&emsp; Enter all the elements to be stored in the array. <br>
+</h6>
 </body>
 
 </html>
