@@ -24,7 +24,7 @@ Command line arguments: <br>
 <h6>A program to determine the maximum of the two integers without using any conditional statements.<br>
 Command line arguments: <br>
 &emsp;- Provide two integers seperated with space.</h6>
-<h5>4. Dictionary.java</h5>
+<h5>5. Dictionary.java</h5>
 <h6>
 This program is implementing phone dictionary using HashMap.<br>
 Command Line Arguments: <br>
@@ -32,12 +32,20 @@ Command Line Arguments: <br>
 &emsp;- Give Name and Number for all seperated by Enter. <br>
 &emsp;- Then give the name of the user to be looked for to get their phone number. This return the number if user's details are stored or "not found".<br>
 </h6>
-<h5>4. ArrayReversal.java</h5>
+<h5>6. ArrayReversal.java</h5>
 <h6>
 This program takes array of integers and store and print it in the reverse order. <br>
 Command Line Arguments: <br>
 &emsp;- Enter the count of elements to be stored in array. <br>
 &emsp; Enter all the elements to be stored in the array. <br>
+</h6>
+<h5>7. BubbleSort.java</h5>
+<h6>
+This programs implements bubble sort algorithm sorts the array of integers in increasing order.
+<br>This prints the number of swaps made to sort the array, first element and last element.<br>
+Command Line Arguments:<br>
+&emsp;- Provide with the array length.<br>
+&emsp;- Print the array of integers.<br>
 </h6>
 </body>
 
