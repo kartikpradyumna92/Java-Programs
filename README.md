@@ -47,6 +47,21 @@ Command Line Arguments:<br>
 &emsp;- Provide with the array length.<br>
 &emsp;- Print the array of integers.<br>
 </h6>
+
+<h5>8. Leftrotattion.java</h5>
+<h6>
+This program solves the problem of rotating an integer array in the left direction based on the count of rotations provided by the user. I have used algorithm similar to bubble sort to perform this.<br>
+Command Line Arguments:<br>
+&emsp;- Provide the length of the array and rotation count seperated by space<br>
+&emsp;- Print the array of integers of that particular length.<br>
+</h6>
+<h5>9. Rightrotation.java</h5>
+<h6>
+This program solves the problem of rotating an integer array in the right direction based on the count of rotations provided by the user. I have used algorithm similar to bubble sort to perform this.<br>
+Command Line Arguments:<br>
+&emsp;- Provide the length of the array and rotation count seperated by space<br>
+&emsp;- Print the array of integers of that particular length.<br>
+</h6>
 </body>
 
 </html>
