@@ -62,6 +62,16 @@ Command Line Arguments:<br>
 &emsp;- Provide the length of the array and rotation count seperated by space<br>
 &emsp;- Print the array of integers of that particular length.<br>
 </h6>
+
+<h5>10. Prisoner.java</h5>
+<h6>
+This program solves Hackerrank problem. Refer this for the problem statement: <a href = "https://www.hackerrank.com/challenges/save-the-prisoner">Hackerrank problem: Save the prisoner!</a>  <br>
+Command Line Arguments:<br>
+&emsp;- Provide the number of text cases and press Enter<br>
+&emsp;- Provide the count of prisioners, number of sweets and index each seperated by space and then press Enter<br>
+</h6>
+
+
 </body>
 
 </html>
