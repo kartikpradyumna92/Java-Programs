@@ -71,6 +71,13 @@ Command Line Arguments:<br>
 &emsp;- Provide the count of prisioners, number of sweets and index each seperated by space and then press Enter<br>
 </h6>
 
+<h5>11. StringLexicographically.java</h5>
+<h6>
+This program aims in solving the problem of sorting the alphabets of the string lexicographically. I stored the string into int array where I stored the ascii values of the alphabets of the string and performed bubble sort algorithm over them. <br>
+Command Line Arguments:<br>
+&emsp;- Provide the string and press Enter<br>
+</h6>
+
 
 </body>
 
