@@ -78,6 +78,15 @@ Command Line Arguments:<br>
 &emsp;- Provide the string and press Enter<br>
 </h6>
 
+<h5>12. AngryProfessor.java</h5>
+<h6>
+This program solves Hackerrank problem. Refer this for the problem statement: <a href = "https://www.hackerrank.com/challenges/angry-professor">Hackerrank problem: Angry Professor!</a>  <br>
+Command Line Arguments:<br>
+&emsp;- Provide the number of text cases and press Enter<br>
+&emsp;- Provide the number of students and threshold each seperated by space and then press Enter<br>
+&emsp;- Provide the time of arrival for each student. Negative value or 0 represents that student has arrived before class. Positive value represents that the student is late.<br>
+</h6>
+
 
 </body>
 
