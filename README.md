@@ -96,6 +96,14 @@ Command Line Arguments:<br>
 The output represents the size of the array after every operation.<br>
 </h6>
 
+<h5>14. sockMerchant.java</h5>
+<h6>
+This program solves Hackerrank problem. Refer this for the problem statement: <a href = "https://www.hackerrank.com/challenges/sock-merchant">Hackerrank problem: Sock Merchant.</a>  <br>
+Command Line Arguments:<br>
+&emsp;- Provide the size of the array and press Enter<br>
+&emsp;- Provide the integer elements in the array seperated by a space and then press Enter<br>
+The output represents the count of pairs of distinct socks.<br>
+</h6>
 </body>
 
 </html>
