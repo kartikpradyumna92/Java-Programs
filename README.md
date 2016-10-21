@@ -104,6 +104,17 @@ Command Line Arguments:<br>
 &emsp;- Provide the integer elements in the array seperated by a space and then press Enter<br>
 The output represents the count of pairs of distinct socks.<br>
 </h6>
+
+<h5>15. FunnyString.java</h5>
+<h6>
+This program solves Hackerrank problem. Refer this for the problem statement: <a href = "https://www.hackerrank.com/challenges/funny-string">Hackerrank problem: Funny String.</a>  <br>
+Command Line Arguments:<br>
+&emsp;- Provide the number of test cases and press Enter<br>
+&emsp;- Provide the String and press Enter.<br>
+&emsp;- The output is obtained for each string after its entered.<br>
+</h6>
+
+
 </body>
 
 </html>
