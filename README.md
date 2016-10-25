@@ -92,7 +92,7 @@ Command Line Arguments:<br>
 This program solves Hackerrank problem. Refer this for the problem statement: <a href = "https://www.hackerrank.com/challenges/cut-the-sticks">Hackerrank problem: Cut the sticks.</a>  <br>
 Command Line Arguments:<br>
 &emsp;- Provide the size of the array and press Enter<br>
-&emsp;- Provide the integer elements in the array and then press Enter<br>
+&emsp;- Provide the integer elements in the array and then press Enter.<br>
 The output represents the size of the array after every operation.<br>
 </h6>
 
