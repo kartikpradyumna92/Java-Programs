@@ -122,6 +122,15 @@ Command Line Arguments:<br>
 &emsp;- Provide the integer elements of the array seperated by space and then press Enter.<br>
 &emsp;- The output obtained represents the count of subarrays which has negative sum.<br>
 </h6>
+
+<h5>17. ChocolateFeast.java</h5>
+<h6>
+This program solves Hackerrank problem. Refer this for the problem statement: <a href = "https://www.hackerrank.com/challenges/chocolate-feast">Hackerrank problem: Chocolate Feast.</a>  <br>
+Command Line Arguments:<br>
+&emsp;- Provide the number of test cases and press Enter<br>
+&emsp;- Provide n, c and m seperated by space and then press Enter.<br>
+&emsp;- The output obtained represents the number of chocolates user can buy.<br>
+</h6>
 </body>
 
 </html>
