@@ -131,6 +131,17 @@ Command Line Arguments:<br>
 &emsp;- Provide n, c and m seperated by space and then press Enter.<br>
 &emsp;- The output obtained represents the number of chocolates user can buy.<br>
 </h6>
+
+<h5>18. BetweenSets.java</h5>
+<h6>
+This program solves Hackerrank problem. Refer this for the problem statement: <a href = "https://www.hackerrank.com/challenges/between-two-sets">Hackerrank problem: Between Two Sets.</a>  <br>
+Command Line Arguments:<br>
+&emsp;- Provide the size of two arrays seperated by space and press Enter<br>
+&emsp;- Provide the integer elements of first array seperated by space and then press Enter.<br>
+&emsp;- Provide the integer elements of second array seperated by space and then press Enter.<br>
+&emsp;- The output obtained represents the number of integers between the two sets.<br>
+</h6>
+
 </body>
 
 </html>
