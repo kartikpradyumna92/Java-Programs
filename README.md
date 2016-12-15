@@ -142,6 +142,16 @@ Command Line Arguments:<br>
 &emsp;- The output obtained represents the number of integers between the two sets.<br>
 </h6>
 
+
+<h5>19. MaxElement.java</h5>
+<h6>
+This program solves Hackerrank problem. Refer this for the problem statement: <a href = "https://www.hackerrank.com/challenges/maximum-element">Hackerrank problem: Maximum Element in Set</a>  <br>
+Command Line Arguments:<br>
+&emsp;- Provide the length of entries seperated by space and press Enter<br>
+&emsp;- Provide the integer elements(if input is 1, provide element to insert seperated by space, type 2 for deletion, 3 fr returning maximum element seperated by space and then press Enter.<br>
+&emsp;- The output obtained represents the maximum integer in the set.<br>
+</h6>
+
 </body>
 
 </html>
